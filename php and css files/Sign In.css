@@ -1,0 +1,38 @@
+.S_in{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 36px;
+	color: white;
+}
+
+.frmtext{
+	border: none;
+	background-color: antiquewhite;
+	font-size: 16px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	width: 450px;
+	border-bottom:  2px solid black;
+	padding: 5px;
+}
+
+.frmtext:focus{
+	outline: none;
+}
+
+.sbmit{
+	border: none;
+  	padding: 15px 32px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+  	margin: 4px 2px;
+  	cursor: pointer;
+	color: white;
+	width: 300px;
+	background-color: gray;
+}
+.Main_table{
+	background-color: darkkhaki;
+	width:55%;
+	background-image: linear-gradient(darkkhaki,white);
+}

@@ -1,0 +1,158 @@
+.bodyBox {
+	background-color: papayawhip;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+.nav .current {
+	color :#BB7F80;
+	background-color:#ffffff;
+}
+
+
+.bodyBox {
+	display: flex;
+}
+
+.leftSide {
+	flex: 6;
+	background-color: darkgray;
+	
+}
+.leftSide h1 {
+	font-size: 35px;
+	text-align: center;
+}
+
+.rightSide {
+	flex: 5;
+	background-color: gray;
+}
+
+.rightSide h1 {
+	margin-top: 125px;
+	font-size: 30px;
+	text-align: center;
+}
+
+.First_2 {
+	display: flex;
+}
+
+.inputBox2 {
+	flex: 1;
+}
+
+.inputBox2 input {
+	width: 300px;
+	height: 25px;
+	border-radius: 5px;
+}
+
+
+.inputBox1{
+	flex: 1;
+}
+
+.inputBox1 input {
+	width: 300px;
+	height: 25px;
+	border-radius: 5px;
+}
+
+.form {
+	margin-left: 48px;
+}
+
+.form input:focus {
+	outline: none;
+}
+
+.form input {
+	border: none;
+	margin-bottom: 35px;
+	margin-top: -25px;
+}
+
+.form span {
+	font-size: 16px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	
+}
+
+.Last_3 input {
+	width: 660px;
+	height: 25px;
+	border-radius: 5px;
+}
+
+.msgBox textarea {
+	margin-top: 5px;
+	width: 660px;
+	height: 250px;
+	border-radius: 5px;
+	border:none;
+}
+
+.sbmtBtn input{
+	margin-top: 35px;
+	border: none;
+	width: 125px;
+	height: 45px;
+	align: center;
+	margin-right: 35px;
+	background-color: dimgray;
+	color: azure;
+	font-size: 14px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+
+.sbmtBtn input:hover {
+	background-color: black;
+	color: white;
+	text-transform: uppercase;
+}
+
+.star {
+	color: red;
+}
+
+.t1 {
+
+	height: 5px;
+}
+
+.details {
+	border: 1px solid #000;
+	flex: 1;
+	height: 700px;
+}
+
+.phnNo {
+	flex: 1;
+	margin-bottom: 25px;
+}
+
+.details p {
+	margin-left: 25px;
+	align: justify;
+}
+
+.phnNo {
+	display: flex;
+	margin-bottom: 0px;	
+}
+
+.B1 {
+	flex: 2;
+	margin-left: 10px;
+}
+
+.B2 {
+	flex: 1;
+	margin-right: 10px;
+}
+.phnNo p {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	margin-bottom:0px;
+}

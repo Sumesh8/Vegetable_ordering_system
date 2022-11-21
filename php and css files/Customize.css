@@ -1,0 +1,146 @@
+.bdy {
+	display: flex;
+	height: 100%;
+	margin-left: 200px;
+	margin-right: 200px;
+	border: 1px solid black;
+}
+
+.Vegetables{
+	flex:2;
+	background-color: dimgray;
+}
+
+.dscption{
+	flex:2;
+}
+
+.dscption{
+	background-color: #A89D9D;
+}
+
+.checkboxgroup {
+	display: inline-block;
+	text-align: center;
+	margin-right: 35px;
+	margin-left: 15px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+.checkboxgroup label {
+	 display: block;
+}
+
+.sliders{
+	margin-left: 15px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+
+.p2pay{
+	width: 150px;
+	height: 35px;
+	background-color: #7D6256;
+	border: none;
+	color:white;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+
+.p2pay:hover{
+	color: black;
+	background-color: antiquewhite;
+}
+options{
+  width: 45px;
+  height: 45px;
+  display: block;
+  font-size: 16px;
+  font-family: sans-serif;
+  font-weight: 700;
+  color: #444;
+  line-height: 1.3;
+  padding: .6em 1.4em .5em .8em;
+  box-sizing: border-box;
+  margin: 0;
+  box-shadow: 0 1px 0 1px rgba(0,0,0,.04);
+  border-radius: .5em;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+  background-color: #fff;
+}
+
+.select{
+	padding: 25px;
+}
+
+.select td{
+	padding: 35px;
+}
+
+.tuple{
+	display: flex;
+	margin-top: 35px;
+	margin-bottom: 35px;
+}
+.Type{
+	flex: 3;
+}
+.Colon{
+	flex: 1;
+}
+.radio{
+	flex: 6;
+	display: flex;
+	margin-top: -10px;
+}
+
+.radio div{
+	flex: 1;
+}
+
+.sbmtcstm input{
+	
+	margin-top: 35px;
+	border: none;
+	width: 155px;
+	height: 45px;
+	align: center;
+	margin-right: 35px;
+	background-color: dimgray;
+	color: azure;
+	font-size: 14px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+
+
+.sbmtcstm input:hover {
+	background-color: black;
+	color: white;
+	font-size: 14px;
+}
+
+.topic{
+	color: White;
+	font-weight: 600;
+}
+
+.selectbox{
+	width: 150px;
+	border: none;
+}
+
+.selectbox:focus{
+	outline: none;
+}
+
+.price{
+	width: 150px;
+	align-content: right;	
+}
+
+.price p{
+	
+}
+
+.Colon{
+	font-weight: 700;
+}

@@ -1,0 +1,62 @@
+.L_in {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 32px;
+	
+}
+
+.Main_table{
+	background-color: darkkhaki;
+	width:55%;
+	background-image: linear-gradient(darkkhaki,white);
+	
+}
+
+.Button1 {
+  background-color:#D9383A;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+	width: 300px;
+}
+
+.Button {
+	border: none;
+  	padding: 15px 32px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+  	margin: 4px 2px;
+  	cursor: pointer;
+	color: white;
+	width: 300px;
+	background-color: gray;
+}
+
+.fpasword {
+	color:red;
+	cursor: pointer;
+	font-size: 16px;
+}
+
+.text {
+	width: 300px;
+	border: none;
+	padding:13px 32px;
+	background-color: lightgray;
+	font-size: 16px;
+}
+.text:focus{
+	outline: none;
+}
+.fp{
+	font-size: 24px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color:darkred;
+}

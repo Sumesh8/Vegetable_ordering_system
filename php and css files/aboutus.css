@@ -1,0 +1,21 @@
+.name {
+	
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	border-top: 1px solid #E92424;
+	font-size: 36px;
+	font-weight: 800;
+	background-color:beige ;
+}
+
+.phrase {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 20px;
+	font-weight: 600;
+}
+
+.abtus {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 20px;
+	font-weight: 400;
+	text-align: center;
+}

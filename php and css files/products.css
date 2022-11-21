@@ -1,0 +1,102 @@
+
+.Carrot {
+	display: flex;
+	margin-left:150px;
+	
+}
+.C1{
+	flex: 2;
+}
+.C2{
+	flex: 2;
+}
+.C3{
+	flex: 2;
+}
+
+.Cabbage {
+	display: flex;
+	margin-top: 25px;
+	margin-left: 150px;
+}
+.Cb1{
+	flex: 1;
+}
+.Cb2{
+	flex: 1;
+}
+.Cb3{
+	flex: 1;
+}
+
+.Leeks {
+	display: flex;
+	margin-top: 25px;
+	margin-left: 150px;
+}
+.L1{
+	flex: 1;
+}
+.L2{
+	flex: 1;
+}
+.L3{
+	flex: 1;
+}
+
+
+.Potato {
+	display: flex;
+	margin-top: 25px;
+	margin-left: 150px;
+}
+.P1{
+	flex: 1;
+}
+.P2{
+	flex: 1;
+}
+.P3{
+	flex: 1;
+}
+
+.Beans {
+	display: flex;
+	margin-top: 25px;
+	margin-left: 150px;
+}
+.B1{
+	flex: 1;
+}
+.B2{
+	flex: 1;
+}
+.B3{
+	flex: 1;
+}
+
+.Custo {
+	width: 300px;
+	height: 50px;
+	color: #ffffff;
+}
+
+.bodyBox input {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	background-color: #E92424;
+	border: none;
+	font-size: 16px;
+}
+
+.bodyBox h2 {
+	text-align: center;
+	width:300px;
+    color: #E92424;
+}
+
+.Category {
+	background-color: #ffffb3;
+	border-top: 2px solid #98393B;
+	align-content: center;
+	align-items: center;
+}

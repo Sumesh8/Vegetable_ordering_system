@@ -1,0 +1,76 @@
+.insert{
+	border: none;
+	background-color: white;
+	font-size: 16px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	width: 450px;
+	border-bottom:  2px solid black;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+.Submit{
+	margin-top: 35px;
+	border: none;
+	width: 125px;
+	height: 45px;
+	align: center;
+	margin-right: 35px;
+	background-color: dimgray;
+	color: azure;
+	font-size: 14px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+
+.Submit:hover{
+	background-color: black;
+	color: white;
+	text-transform: uppercase;
+}
+
+.delidtail{
+	margin-left: 25px;
+	
+}
+.displyDtail{
+	background-color: grey;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+
+.displyItem{
+	display: flex;
+	height: 25%;
+	background-color: darkgray;
+}
+
+.image{
+	flex: 2;
+}
+
+.data{
+	flex: 5;
+	margin-left: 15px;
+}
+
+.vertical{
+	border-left: 1px solid black;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.total{
+	border-left: 1px solid black;
+	width: 225px;
+	margin-left: 75%;
+	align-content: right;
+	align-items: right;
+}
+
+.preview td{
+	padding: 10px;
+}
+
+.preview{
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-weight: 500;
+}
