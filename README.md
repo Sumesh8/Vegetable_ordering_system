@@ -4,8 +4,7 @@ This comprehensive project encompasses an intuitive interface for customers to o
 Further Information
 
 Technologies & Tools Used : 
-Backend Infrastructure - PHP, JavaScript, MySQL
-Frontend Interface - HTML, CSS
+        Backend Service - PHP, JavaScript, MySQL
+        Frontend Service - HTML, CSS
 
 
-![1](https://github.com/Sumesh8/Vegetable_ordering_system/assets/107548452/7758ddcd-d2da-47be-9ead-b2151fdff980)
