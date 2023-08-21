@@ -30,8 +30,6 @@ This project encompasses an intuitive interface for customers to order vegetable
 - VS CODE (code editor)
 - GitHub (project management tool)
   
-<!-- 
-
 ## Srenshots
 
 1. Home page
