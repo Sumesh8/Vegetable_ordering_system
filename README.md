@@ -1,4 +1,4 @@
-# Integrated Vegetable Ordering System
+# Vegetable Ordering System.
 
 ## Table of Contents
 
