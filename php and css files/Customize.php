@@ -167,7 +167,7 @@ if ($query->num_rows > 0){
 
 				</div>	
 		</div>
-	</div>
+	
 		<!--Body Ends -->
 		
 		<!--Footer begins -->
