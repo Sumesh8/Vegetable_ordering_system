@@ -32,7 +32,8 @@ This project encompasses an intuitive interface for customers to order vegetable
   
 <!-- 
 
-## Screenshots
+## Srenshots
+
 1. Home page
 ![1](https://github.com/Sumesh8/Vegetable_ordering_system/assets/107548452/fe3ffa19-d7eb-4864-b21f-aa042c6dfa68)
 
