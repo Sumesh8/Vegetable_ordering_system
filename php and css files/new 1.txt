@@ -1,14 +1,1 @@
-<!doctype html>
-<html>
-<div *ngIf="!show">
-    <div>show is false</div>
-</div>
-<div *ngIf="show">
-  <div>show is ture</div>
-</div>
-</html>
 
-<div class="csv" <?php if($campaign[0]->method != 'CSV'){ echo "style='display:none'"; } ?> >
- -----------
- ------------
-</div>
